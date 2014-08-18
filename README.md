@@ -1,4 +1,4 @@
-Band Of Teachers Application
+Band of Teachers Application
 ============================
 
 The unfinished beginnings of a web application for Band of Teachers Music tuition services.
@@ -10,7 +10,7 @@ This app was the prototype and testing ground for my Dissertation project "Intui
 Implemented Functionality
 -------------------------
 - Login and User Authentication
-- User Types, User permissions and Navigation.
+- User Types, permissions and redirection.
 - Form Validations
 - Database Validations and Checks
 
